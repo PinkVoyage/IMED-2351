@@ -1,0 +1,1 @@
+console.log("If you could pick a color to be, what would you choose and why?");
